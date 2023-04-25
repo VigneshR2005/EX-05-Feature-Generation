@@ -74,7 +74,7 @@ df = pd.get_dummies(df, prefix=['Ord_1'], columns=['Ord_1'])
 df.head(10)
 ```
 
-### OUPUT
+### OUTPUT
 
 ![image](https://user-images.githubusercontent.com/120443233/231797352-0458f8b9-8635-477c-8107-37e8f6641471.png)
 
